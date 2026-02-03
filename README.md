@@ -69,7 +69,7 @@ flipkart-product-review-sentiment-analysis/
 
 ```bash
 git clone https://github.com/saurabhshirole1/flipkart-product-review-sentiment-analysis.git
-cd flipkart-sentiment-analysis-ml
+cd flipkart-product-review-sentiment-analysis
 ```
 
 ### 2️⃣ Create Virtual Environment

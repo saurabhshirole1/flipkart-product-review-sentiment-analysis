@@ -59,6 +59,7 @@ flipkart-product-review-sentiment-analysis/
 ├── notebooks/
 │   ├── 1_EDA_and_Preprocessing.ipynb
 │   └── 2_Model_Training_and_Evaluation.ipynb
+│
 ├── model_scripts/
 │   └── 2_Model_Training_and_Evaluation.py
 │
